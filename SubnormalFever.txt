@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="40648" tvg-name="40648" group-title="US" tvg-logo="40648.png",MTV Lebanon CA (40648)
 http://www.elahmad.com/tv/m3u8/isat.m3u8?id=mtv
 #EXTINF:-1 tvg-id="40649" tvg-name="40649" group-title="US" tvg-logo="40649.png",LDC CA (40649)
