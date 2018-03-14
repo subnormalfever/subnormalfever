@@ -1,23 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="40648" tvg-name="40648" group-title="SubnormalFeverAR" tvg-logo="40648.png",MTV Lebanon CA (40648)
-http://www.elahmad.com/tv/m3u8/isat.m3u8?id=mtv
-#EXTINF:-1 tvg-id="40649" tvg-name="40649" group-title="SubnormalFeverAR" tvg-logo="40649.png",LDC CA (40649)
-http://elahmad.com/tv/m3u8/isat.m3u8?id=ldc
-#EXTINF:-1 tvg-id="40650" tvg-name="40650" group-title="SubnormalFeverAR" tvg-logo="40650.png",LDC 2 CA (40650)
-http://streaming.i-sat.tv:1935/live/ldc/playlist.m3u8
-#EXTINF:-1 tvg-id="40652" tvg-name="40652" group-title="SubnormalFeverAR" tvg-logo="40652.png",ICI Tele CA (40652)
-https://srclive-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8
-#EXTINF:-1 tvg-id="40653" tvg-name="40653" group-title="SubnormalFeverAR" tvg-logo="40653.png",V CA (40653)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/video_225.m3u8
-#EXTINF:-1 tvg-id="40655" tvg-name="40655" group-title="SubnormalFeverAR" tvg-logo="40655.png",Tele Quebec CA (40655)
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
-#EXTINF:-1 tvg-id="40656" tvg-name="40656" group-title="SubnormalFeverAR" tvg-logo="40656.png",MTV Lebanon 2 CA (40656)
+#EXTINF:-1 tvg-id="1" tvg-name="1" group-title="Arabic" tvg-logo="1.png",MTV Lebanon LEB (1)
 http://streaming.i-sat.tv:8081/live/mtv/playlist.m3u8
-#EXTINF:-1 tvg-id="40657" tvg-name="40657" group-title="SubnormalFeverAR" tvg-logo="40657.png",Spacetoon CA (40657)
+
+#EXTINF:-1 tvg-id="2" tvg-name="2" group-title="Arabic" tvg-logo="2.png",LDC LEB (2)
+http://streaming.i-sat.tv:1935/live/ldc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="3" group-title="Arabic" tvg-logo="3.png",Spacetoon AR (3)
 http://streaming.i-sat.tv:8081/live/spacetoon/playlist.m3u8
-#EXTINF:-1 tvg-id="40658" tvg-name="40658" group-title="SubnormalFeverAR" tvg-logo="40658.png",Aljazeera CA (40658)
+
+#EXTINF:-1 tvg-id="4" tvg-name="4" group-title="Arabic" tvg-logo="4.png",Aljazeera AR (4)
 http://streaming.i-sat.tv:8081/live/aljazeera/playlist.m3u8
-#EXTINF:-1 tvg-id="40659" tvg-name="40659" group-title="SubnormalFeverAR" tvg-logo="40659.png",RDS CA (40659)
+
+#EXTINF:-1 tvg-id="1" tvg-name="1" group-title="Canada" tvg-logo="1.png",ICI Tele CA (1)
+https://srclive-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="2" group-title="Canada" tvg-logo="2.png",V CA (2)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/video_225.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="3" group-title="Canada" tvg-logo="3.png",Tele Quebec CA (3)
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="4" group-title="Canada" tvg-logo="4.png",RDS CA (4)
 https://rdshdulive-lh.akamaihd.net/i/rdshdu1_1@110201/master.m3u8
-#EXTINF:-1 tvg-id="6250" tvg-name="6250" group-title="US" tvg-logo="6250.png",FX US (6250)
-http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=6250&title=FX%20US
