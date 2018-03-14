@@ -19,3 +19,5 @@ http://streaming.i-sat.tv:8081/live/spacetoon/playlist.m3u8
 http://streaming.i-sat.tv:8081/live/aljazeera/playlist.m3u8
 #EXTINF:-1 tvg-id="40659" tvg-name="40659" group-title="SubnormalFeverAR" tvg-logo="40659.png",RDS CA (40659)
 https://rdshdulive-lh.akamaihd.net/i/rdshdu1_1@110201/master.m3u8
+#EXTINF:-1 tvg-id="6250" tvg-name="6250" group-title="US" tvg-logo="6250.png",FX US (6250)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=6250&title=FX%20US
