@@ -5,11 +5,20 @@ http://streaming.i-sat.tv:8081/live/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="2" group-title="Arabic" tvg-logo="2.png",LDC LEB (2)
 http://streaming.i-sat.tv:1935/live/ldc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-name="3" group-title="Arabic" tvg-logo="3.png",Spacetoon AR (3)
-http://streaming.i-sat.tv:8081/live/spacetoon/playlist.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="3" group-title="Arabic" tvg-logo="3.png",Aljadeed TV LEB (3)
+http://streaming.i-sat.tv:8081/live/tnv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="4" group-title="Arabic" tvg-logo="4.png",Aljazeera AR (4)
+#EXTINF:-1 tvg-id="4" tvg-name="4" group-title="Arabic" tvg-logo="4.png",Future TV LEB (4)
+http://streaming.i-sat.tv:8081/live/ftu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="5" group-title="Arabic" tvg-logo="5.png",Aljazeera AR (5)
 http://streaming.i-sat.tv:8081/live/aljazeera/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="6" group-title="Arabic" tvg-logo="6.png",RT AR (6)
+https://secure-streams.akamaized.net/rt-arab/index2500.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="7" group-title="Arabic" tvg-logo="7.png",Spacetoon AR (7)
+http://streaming.i-sat.tv:8081/live/spacetoon/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="1" group-title="Canada" tvg-logo="1.png",ICI Tele CA (1)
 https://srclive-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8
