@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="1" tvg-name="1" group-title="Arabic" tvg-logo="MTV.png",MTV LEB (1)
 http://streaming.i-sat.tv:8081/live/mtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="2" group-title="Arabic" tvg-logo="LDC.png",LDC LEB (2)
+#EXTINF:-1 tvg-id="2" tvg-name="2" group-title="Arabic" tvg-logo="LDC.png",LDC LEB (2
 http://streaming.i-sat.tv:1935/live/ldc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="3" group-title="Arabic" tvg-logo="OTV.png",OTV LEB (3)
@@ -35,89 +35,90 @@ http://streaming.i-sat.tv:8081/live/alhadath/playlist.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="12" group-title="Arabic" tvg-logo="2M.png",2M AR (12)
 http://streaming.i-sat.tv:8081/live/2m/playlist.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-name="13" group-title="Arabic" tvg-logo="Spacetoon.png",Spacetoon AR (13)
+#EXTINF:-1 tvg-id="13" tvg-name="13" group-title="Arabic" tvg-logo="OrientNews.png",Orient News (13)
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-name="14" group-title="Arabic" tvg-logo="Spacetoon.png",Spacetoon AR (14)
 http://streaming.i-sat.tv:8081/live/spacetoon/playlist.m3u8
 
-#EXTINF:-1 tvg-id="14" tvg-name="14" group-title="Arabic" tvg-logo="NationalGeographicAbuDhabi.png",National Geographic Abu Dhabi AR (14)
+#EXTINF:-1 tvg-id="15" tvg-name="15" group-title="Arabic" tvg-logo="NationalGeographicAbuDhabi.png",National Geographic Abu Dhabi AR (15)
 http://streaming.i-sat.tv:1935/live/Nat/playlist.m3u8
 
-#EXTINF:-1 tvg-id="15" tvg-name="15" group-title="Arabic" tvg-logo="AljazeeraDocumentary.png",Aljazeera Documentary AR (15)
+#EXTINF:-1 tvg-id="16" tvg-name="16" group-title="Arabic" tvg-logo="AljazeeraDocumentary.png",Aljazeera Documentary AR (16)
 http://streaming.i-sat.tv:8081/live/jazeeradeco/playlist.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-name="16" group-title="Arabic" tvg-logo="JordanSport.png",Jordan Sport AR (16)
+#EXTINF:-1 tvg-id="17" tvg-name="17" group-title="Arabic" tvg-logo="JordanSport.png",Jordan Sport AR (17)
 http://streaming.i-sat.tv:1935/live/pjs/playlist.m3u8
 
-#EXTINF:-1 tvg-id="17" tvg-name="17" group-title="Arabic" tvg-logo="ONSport.png",ON Sport AR (17)
+#EXTINF:-1 tvg-id="18" tvg-name="18" group-title="Arabic" tvg-logo="ONSport.png",ON Sport AR (18)
 http://streaming.i-sat.tv:1935/live/sno/playlist.m3u8
 
-#EXTINF:-1 tvg-id="18" tvg-name="18" group-title="Arabic" tvg-logo="KSASport.png",KSA Sport AR (18)
+#EXTINF:-1 tvg-id="19" tvg-name="19" group-title="Arabic" tvg-logo="KSASport.png",KSA Sport AR (19)
 https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel4/Index1400.m3u8
 
-#EXTINF:-1 tvg-id="19" tvg-name="19" group-title="Arabic" tvg-logo="OSNWWE.png",OSN WWE AR (19)
+#EXTINF:-1 tvg-id="20" tvg-name="20" group-title="Arabic" tvg-logo="OSNWWE.png",OSN WWE AR (20)
 http://streaming.i-sat.tv:8081/live/wwe/playlist.m3u8
 
-#EXTINF:-1 tvg-id="20" tvg-name="20" group-title="Arabic" tvg-logo="OSNStarMovies.png",OSN Star Movies AR (20)
+#EXTINF:-1 tvg-id="21" tvg-name="21" group-title="Arabic" tvg-logo="OSNStarMovies.png",OSN Star Movies AR (21)
 http://streaming.i-sat.tv:8081/live/osm/playlist.m3u8
 
-#EXTINF:-1 tvg-id="21" tvg-name="21" group-title="Arabic" tvg-logo="OSNCinema.png",OSN Cinema AR (21)
+#EXTINF:-1 tvg-id="22" tvg-name="22" group-title="Arabic" tvg-logo="OSNCinema.png",OSN Cinema AR (22)
 http://streaming.i-sat.tv:8081/live/oci/playlist.m3u8
 
-#EXTINF:-1 tvg-id="22" tvg-name="22" group-title="Arabic" tvg-logo="ZeeAflam.png",Zee Aflam AR (22)
+#EXTINF:-1 tvg-id="23" tvg-name="23" group-title="Arabic" tvg-logo="ZeeAflam.png",Zee Aflam AR (23)
 http://streaming.i-sat.tv:8081/live/zeeaflam/playlist.m3u8
 
-#EXTINF:-1 tvg-id="23" tvg-name="23" group-title="Arabic" tvg-logo="ZeeAlwan.png",Zee Alwan AR (23)
+#EXTINF:-1 tvg-id="24" tvg-name="24" group-title="Arabic" tvg-logo="ZeeAlwan.png",Zee Alwan AR (24)
 http://streaming.i-sat.tv:8081/live/zeealwan/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24" tvg-name="24" group-title="Arabic" tvg-logo="CBC.png",CBC AR (24)
+#EXTINF:-1 tvg-id="25" tvg-name="25" group-title="Arabic" tvg-logo="CBC.png",CBC AR (25)
 http://streaming.i-sat.tv:1935/live/cbcone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="25" tvg-name="25" group-title="Arabic" tvg-logo="CBCDrama.png",CBC Drama AR (25)
+#EXTINF:-1 tvg-id="26" tvg-name="26" group-title="Arabic" tvg-logo="CBCDrama.png",CBC Drama AR (26)
 http://streaming.i-sat.tv:1935/live/cbc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="26" tvg-name="26" group-title="Arabic" tvg-logo="CBCSofra.png",CBC Sofra AR (26)
+#EXTINF:-1 tvg-id="27" tvg-name="27" group-title="Arabic" tvg-logo="CBCSofra.png",CBC Sofra AR (27)
 http://streaming.i-sat.tv:1935/live/csofra/playlist.m3u8
 
-#EXTINF:-1 tvg-id="27" tvg-name="27" group-title="Arabic" tvg-logo="DMC.png",DMC AR (27)
+#EXTINF:-1 tvg-id="28" tvg-name="28" group-title="Arabic" tvg-logo="DMC.png",DMC AR (28)
 http://streaming.i-sat.tv:1935/live/dmc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="28" tvg-name="28" group-title="Arabic" tvg-logo="DMCDrama.png",DMC Drama AR (28)
+#EXTINF:-1 tvg-id="29" tvg-name="29" group-title="Arabic" tvg-logo="DMCDrama.png",DMC Drama AR (29)
 http://streaming.i-sat.tv:8081/live/dmcdrama/playlist.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-name="29" group-title="Arabic" tvg-logo="SyriaDrama.png",Syria Drama AR (29)
+#EXTINF:-1 tvg-id="30" tvg-name="30" group-title="Arabic" tvg-logo="SyriaDrama.png",Syria Drama AR (30)
 http://streaming.i-sat.tv:1935/live/syriadrama/playlist.m3u8
 
-#EXTINF:-1 tvg-id="30" tvg-name="30" group-title="Arabic" tvg-logo="LBC.png",LBC LEB (30)
+#EXTINF:-1 tvg-id="31" tvg-name="31" group-title="Arabic" tvg-logo="LBC.png",LBC LEB (31)
 http://streaming.i-sat.tv:8081/live/lbc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="31" tvg-name="31" group-title="Arabic" tvg-logo="ARTAflam1.png",ART Aflam 1 (31)
+#EXTINF:-1 tvg-id="32" tvg-name="32" group-title="Arabic" tvg-logo="ARTAflam1.png",ART Aflam 1 (32)
 http://streaming.i-sat.tv:8081/live/art1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="32" tvg-name="32" group-title="Arabic" tvg-logo="ARTAflam2.png",ART Aflam 2 (32)
+#EXTINF:-1 tvg-id="33" tvg-name="33" group-title="Arabic" tvg-logo="ARTAflam2.png",ART Aflam 2 (33)
 http://streaming.i-sat.tv:8081/live/art2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="33" tvg-name="33" group-title="Arabic" tvg-logo="RotanaClassic.png",Rotana Classic (33)
+#EXTINF:-1 tvg-id="34" tvg-name="34" group-title="Arabic" tvg-logo="RotanaClassic.png",Rotana Classic (34)
 http://streaming.i-sat.tv:1935/live/rtca/playlist.m3u8
 
-#EXTINF:-1 tvg-id="34" tvg-name="34" group-title="Arabic" tvg-logo="RotanaAflam.png",Rotana Aflam (34)
+#EXTINF:-1 tvg-id="35" tvg-name="35" group-title="Arabic" tvg-logo="RotanaAflam.png",Rotana Aflam (35)
 http://streaming.i-sat.tv:8081/live/rotanaaflam/playlist.m3u8
 
-#EXTINF:-1 tvg-id="35" tvg-name="35" group-title="Arabic" tvg-logo="RotanaDrama.png",Rotana Drama (35)
+#EXTINF:-1 tvg-id="36" tvg-name="36" group-title="Arabic" tvg-logo="RotanaDrama.png",Rotana Drama (36)
 http://streaming.i-sat.tv:1935/live/rotanamasr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="36" tvg-name="36" group-title="Arabic" tvg-logo="RotanaCinema.png",Rotana Cinema (36)
+#EXTINF:-1 tvg-id="37" tvg-name="37" group-title="Arabic" tvg-logo="RotanaCinema.png",Rotana Cinema (37)
 http://streaming.i-sat.tv:1935/live/mrtc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="37" tvg-name="37" group-title="Arabic" tvg-logo="RotanaKhalijiya.png",Rotana Khalijiya (37)
+#EXTINF:-1 tvg-id="38" tvg-name="38" group-title="Arabic" tvg-logo="RotanaKhalijiya.png",Rotana Khalijiya (38)
 http://streaming.i-sat.tv:8081/live/rotanakhalejeh/playlist.m3u8
 
-#EXTINF:-1 tvg-id="38" tvg-name="38" group-title="Arabic" tvg-logo="RotanaClip.png",Rotana Clip (38)
+#EXTINF:-1 tvg-id="39" tvg-name="39" group-title="Arabic" tvg-logo="RotanaClip.png",Rotana Clip (39)
 http://streaming.i-sat.tv:1935/live/rtcp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="39" tvg-name="39" group-title="Arabic" tvg-logo="RotanaMusic.png",Rotana Music (39)
+#EXTINF:-1 tvg-id="40" tvg-name="40" group-title="Arabic" tvg-logo="RotanaMusic.png",Rotana Music (40)
 http://streaming.i-sat.tv:8081/live/rotanamusic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="999" tvg-name="999" group-title="Arabic" tvg-logo="OrientNews.png",Orient News (TBS)
-https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist.m3u8
 
 
 
