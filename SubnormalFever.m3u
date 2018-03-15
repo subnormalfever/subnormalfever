@@ -1,39 +1,137 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="1" group-title="Arabic" tvg-logo="1.png",MTV Lebanon LEB (1)
+#EXTINF:-1 tvg-id="1" tvg-name="1" group-title="Arabic" tvg-logo="MTV.png",MTV LEB (1)
 http://streaming.i-sat.tv:8081/live/mtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="2" group-title="Arabic" tvg-logo="2.png",LDC LEB (2)
+#EXTINF:-1 tvg-id="2" tvg-name="2" group-title="Arabic" tvg-logo="LDC.png",LDC LEB (2)
 http://streaming.i-sat.tv:1935/live/ldc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-name="3" group-title="Arabic" tvg-logo="3.png",Aljadeed TV LEB (3)
-http://streaming.i-sat.tv:8081/live/tnv/playlist.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="3" group-title="Arabic" tvg-logo="OTV.png",OTV LEB (3)
+http://streaming.i-sat.tv:1935/live/vto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="4" group-title="Arabic" tvg-logo="4.png",Future TV LEB (4)
+#EXTINF:-1 tvg-id="4" tvg-name="4" group-title="Arabic" tvg-logo="Future.png",Future TV LEB (4)
 http://streaming.i-sat.tv:8081/live/ftu/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-name="5" group-title="Arabic" tvg-logo="5.png",Aljazeera AR (5)
+#EXTINF:-1 tvg-id="5" tvg-name="5" group-title="Arabic" tvg-logo="NBN.png",NBN LEB (5)
+http://streaming.i-sat.tv:8081/live/nbn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="6" group-title="Arabic" tvg-logo="anb.png",anb LEB (6)
+http://streaming.i-sat.tv:1935/live/anb.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="7" group-title="Arabic" tvg-logo="Aljadeed.png",Aljadeed TV LEB (7)
+http://streaming.i-sat.tv:8081/live/tnv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-name="8" group-title="Arabic" tvg-logo="Aljazeera.png",Aljazeera AR (8)
 http://streaming.i-sat.tv:8081/live/aljazeera/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6" tvg-name="6" group-title="Arabic" tvg-logo="6.png",RT AR (6)
+#EXTINF:-1 tvg-id="9" tvg-name="9" group-title="Arabic" tvg-logo="RT.png",RT AR (9)
 https://secure-streams.akamaized.net/rt-arab/index2500.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-name="7" group-title="Arabic" tvg-logo="7.png",Sky News AR (7)
+#EXTINF:-1 tvg-id="10" tvg-name="10" group-title="Arabic" tvg-logo="SkyNews.png",Sky News AR (10)
 http://streaming.i-sat.tv:8081/live/skynews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="8" tvg-name="8" group-title="Arabic" tvg-logo="8.png",Spacetoon AR (8)
+#EXTINF:-1 tvg-id="11" tvg-name="11" group-title="Arabic" tvg-logo="Al Hadath.png",Al Hadath AR (11)
+http://streaming.i-sat.tv:8081/live/alhadath/playlist.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="12" group-title="Arabic" tvg-logo="2M.png",2M AR (12)
+http://streaming.i-sat.tv:8081/live/2m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-name="13" group-title="Arabic" tvg-logo="Spacetoon.png",Spacetoon AR (13)
 http://streaming.i-sat.tv:8081/live/spacetoon/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="1" group-title="Canada" tvg-logo="1.png",ICI Tele CA (1)
+#EXTINF:-1 tvg-id="14" tvg-name="14" group-title="Arabic" tvg-logo="NationalGeographicAbuDhabi.png",National Geographic Abu Dhabi AR (14)
+http://streaming.i-sat.tv:1935/live/Nat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-name="15" group-title="Arabic" tvg-logo="AljazeeraDocumentary.png",Aljazeera Documentary AR (15)
+http://streaming.i-sat.tv:8081/live/jazeeradeco/playlist.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-name="16" group-title="Arabic" tvg-logo="JordanSport.png",Jordan Sport AR (16)
+http://streaming.i-sat.tv:1935/live/pjs/playlist.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="17" group-title="Arabic" tvg-logo="ONSport.png",ON Sport AR (17)
+http://streaming.i-sat.tv:1935/live/sno/playlist.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-name="18" group-title="Arabic" tvg-logo="KSASport.png",KSA Sport AR (18)
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel4/Index1400.m3u8
+
+#EXTINF:-1 tvg-id="19" tvg-name="19" group-title="Arabic" tvg-logo="OSNWWE.png",OSN WWE AR (19)
+http://streaming.i-sat.tv:8081/live/wwe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-name="20" group-title="Arabic" tvg-logo="OSNStarMovies.png",OSN Star Movies AR (20)
+http://streaming.i-sat.tv:8081/live/osm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="21" tvg-name="21" group-title="Arabic" tvg-logo="OSNCinema.png",OSN Cinema AR (21)
+http://streaming.i-sat.tv:8081/live/oci/playlist.m3u8
+
+#EXTINF:-1 tvg-id="22" tvg-name="22" group-title="Arabic" tvg-logo="ZeeAflam.png",Zee Aflam AR (22)
+http://streaming.i-sat.tv:8081/live/zeeaflam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-name="23" group-title="Arabic" tvg-logo="ZeeAlwan.png",Zee Alwan AR (23)
+http://streaming.i-sat.tv:8081/live/zeealwan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-name="24" group-title="Arabic" tvg-logo="CBC.png",CBC AR (24)
+http://streaming.i-sat.tv:1935/live/cbcone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="25" tvg-name="25" group-title="Arabic" tvg-logo="CBCDrama.png",CBC Drama AR (25)
+http://streaming.i-sat.tv:1935/live/cbc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="26" tvg-name="26" group-title="Arabic" tvg-logo="CBCSofra.png",CBC Sofra AR (26)
+http://streaming.i-sat.tv:1935/live/csofra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-name="27" group-title="Arabic" tvg-logo="DMC.png",DMC AR (27)
+http://streaming.i-sat.tv:1935/live/dmc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="28" group-title="Arabic" tvg-logo="DMCDrama.png",DMC Drama AR (28)
+http://streaming.i-sat.tv:8081/live/dmcdrama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="29" group-title="Arabic" tvg-logo="SyriaDrama.png",Syria Drama AR (29)
+http://streaming.i-sat.tv:1935/live/syriadrama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-name="30" group-title="Arabic" tvg-logo="LBC.png",LBC LEB (30)
+http://streaming.i-sat.tv:8081/live/lbc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="31" group-title="Arabic" tvg-logo="ARTAflam1.png",ART Aflam 1 (31)
+http://streaming.i-sat.tv:8081/live/art1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-name="32" group-title="Arabic" tvg-logo="ARTAflam2.png",ART Aflam 2 (32)
+http://streaming.i-sat.tv:8081/live/art2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="33" group-title="Arabic" tvg-logo="RotanaClassic.png",Rotana Classic (33)
+http://streaming.i-sat.tv:1935/live/rtca/playlist.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="34" group-title="Arabic" tvg-logo="RotanaAflam.png",Rotana Aflam (34)
+http://streaming.i-sat.tv:8081/live/rotanaaflam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-name="35" group-title="Arabic" tvg-logo="RotanaDrama.png",Rotana Drama (35)
+http://streaming.i-sat.tv:1935/live/rotanamasr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-name="36" group-title="Arabic" tvg-logo="RotanaCinema.png",Rotana Cinema (36)
+http://streaming.i-sat.tv:1935/live/mrtc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="37" tvg-name="37" group-title="Arabic" tvg-logo="RotanaKhalijiya.png",Rotana Khalijiya (37)
+http://streaming.i-sat.tv:8081/live/rotanakhalejeh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="38" group-title="Arabic" tvg-logo="RotanaClip.png",Rotana Clip (38)
+http://streaming.i-sat.tv:1935/live/rtcp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-name="39" group-title="Arabic" tvg-logo="RotanaMusic.png",Rotana Music (39)
+http://streaming.i-sat.tv:8081/live/rotanamusic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="999" tvg-name="999" group-title="Arabic" tvg-logo="OrientNews.png",Orient News (TBS)
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="1" group-title="Canada" tvg-logo="ICITele.png",ICI Tele CA (1)
 https://srclive-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="2" group-title="Canada" tvg-logo="2.png",V CA (2)
+#EXTINF:-1 tvg-id="2" tvg-name="2" group-title="Canada" tvg-logo="V.png",V CA (2)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/video_225.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-name="3" group-title="Canada" tvg-logo="3.png",Tele Quebec CA (3)
+#EXTINF:-1 tvg-id="3" tvg-name="3" group-title="Canada" tvg-logo="TeleQuebec.png",Tele Quebec CA (3)
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="4" group-title="Canada" tvg-logo="4.png",RDS CA (4)
+#EXTINF:-1 tvg-id="4" tvg-name="4" group-title="Canada" tvg-logo="RDS.png",RDS CA (4)
 https://rdshdulive-lh.akamaihd.net/i/rdshdu1_1@110201/master.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-name="5" group-title="Canada" tvg-logo="5.png",CBC Montreal CA (5)
+#EXTINF:-1 tvg-id="5" tvg-name="5" group-title="Canada" tvg-logo="CBCMontreal.png",CBC Montreal CA (5)
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master4.m3u8
