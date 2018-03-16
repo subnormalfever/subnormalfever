@@ -5,7 +5,7 @@ http://streaming.i-sat.tv:8081/live/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="2" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/LDC.PNG",LDC LEB (2
 http://streaming.i-sat.tv:1935/live/ldc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-name="3" group-title="Arabic" tvg-logo="OTV.png",OTV LEB (3)
+#EXTINF:-1 tvg-id="3" tvg-name="3" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/OTV.PNG",OTV LEB (3)
 http://streaming.i-sat.tv:1935/live/vto/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="4" group-title="Arabic" tvg-logo="Future.png",Future TV LEB (4)
