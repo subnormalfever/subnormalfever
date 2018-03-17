@@ -122,7 +122,7 @@ http://streaming.i-sat.tv:8081/live/rotanamusic/playlist.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="41" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/MBC1HD.png",MBC 1 HD AR (41)
 http://5.196.90.62:8080/MBC1_HD/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="43" tvg-name="43" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/MBC3HD.png",MBC 3 HD AR (43)
+#EXTINF:-1 tvg-id="42" tvg-name="42" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/MBC2HD.png",MBC 2 HD AR (42)
 http://5.196.90.62:8080/MBC2_HD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="44" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/MBC4HD.png",MBC 4 HD AR (44)
