@@ -98,7 +98,7 @@ http://streaming.i-sat.tv:8081/live/art1/playlist.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="33" group-title="Arabic" tvg-logo="ARTAflam2.png",ART Aflam 2 AR (33)
 http://streaming.i-sat.tv:8081/live/art2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="34" tvg-name="34" group-title="Arabic" tvg-logo="RotanaClassic.png",Rotana Classic AR (34)
+#EXTINF:-1 tvg-id="34" tvg-name="34" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RotanaClassic.png",Rotana Classic AR (34)
 http://streaming.i-sat.tv:1935/live/rtca/playlist.m3u8
 
 #EXTINF:-1 tvg-id="35" tvg-name="35" group-title="Arabic" tvg-logo="RotanaAflam.png",Rotana Aflam AR (35)
@@ -107,10 +107,10 @@ http://streaming.i-sat.tv:8081/live/rotanaaflam/playlist.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="36" group-title="Arabic" tvg-logo="RotanaDrama.png",Rotana Drama AR (36)
 http://streaming.i-sat.tv:1935/live/rotanamasr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="37" tvg-name="37" group-title="Arabic" tvg-logo="RotanaCinema.png",Rotana Cinema AR (37)
+#EXTINF:-1 tvg-id="37" tvg-name="37" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RotanaCinema.png",Rotana Cinema AR (37)
 http://streaming.i-sat.tv:1935/live/mrtc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="38" tvg-name="38" group-title="Arabic" tvg-logo="RotanaKhalijiya.png",Rotana Khalijiya AR (38)
+#EXTINF:-1 tvg-id="38" tvg-name="38" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RotanaKhalijiya.png",Rotana Khalijiya AR (38)
 http://streaming.i-sat.tv:8081/live/rotanakhalejeh/playlist.m3u8
 
 #EXTINF:-1 tvg-id="39" tvg-name="39" group-title="Arabic" tvg-logo="RotanaClip.png",Rotana Clip AR (39)
