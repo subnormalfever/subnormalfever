@@ -159,7 +159,7 @@ https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master4.m3u8
 http://165.227.180.24/tvgloboriodejaneiro/tracks-v1a1/index.m3u8?pxAuth=LwMIhnMyXJLtWKCBDDEi3EYUvGSzTg08
 
 #EXTINF:-1 tvg-id="2" tvg-name="2" group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RedeGloboSaoPaulo.png",Rede Globo Sao Paulo BR (2)
-http://174.138.63.249/tvglobosaopaulo/tracks-v1a1/index.m3u8?pxAuth=aA6mSdCRh780umHr77WDhPVw8kVKXpPn
+https://live2.userapi.com/637609/live/_UwNzFpFekY/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="3" group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/TVDiario.png",TV Diario BR (3)
 http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
