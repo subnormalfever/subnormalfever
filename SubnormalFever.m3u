@@ -154,6 +154,8 @@ https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master4.m3u8
 
 
 
+#EXTINF:-1 tvg-id="1" tvg-name="1" group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RedeGlobo.png",Rede Globo BR (1)
+http://aovivo.futeboltv.com:8081/live/18/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="1" group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RedeGloboRioDeJaneiro.png",Rede Globo Rio BR (1)
 http://165.227.180.24/tvgloboriodejaneiro/tracks-v1a1/index.m3u8?pxAuth=LwMIhnMyXJLtWKCBDDEi3EYUvGSzTg08
