@@ -29,7 +29,7 @@ https://secure-streams.akamaized.net/rt-arab/index2500.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="10" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/SkyNews.png",Sky News AR (10)
 http://streaming.i-sat.tv:8081/live/skynews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-name="11" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/Al Hadath.png",Al Hadath AR (11)
+#EXTINF:-1 tvg-id="11" tvg-name="11" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/AlHadath.png",Al Hadath AR (11)
 http://streaming.i-sat.tv:8081/live/alhadath/playlist.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-name="12" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/2M.png",2M AR (12)
