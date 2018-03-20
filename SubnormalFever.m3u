@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-id="1" tvg-name="1" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/MTV.png",MTV LEB (1)
 http://streaming.i-sat.tv:8081/live/mtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="2" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/LDC.PNG",LDC LEB (2)
+#EXTINF:-1 tvg-id="2" tvg-name="2" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/LDC.png",LDC LEB (2)
 http://streaming.i-sat.tv:1935/live/ldc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-name="3" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/OTV.PNG",OTV LEB (3)
+#EXTINF:-1 tvg-id="3" tvg-name="3" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/OTV.png",OTV LEB (3)
 http://streaming.i-sat.tv:1935/live/vto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="4" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/FutureTV.png",Future TV LEB (4)
+#EXTINF:-1 tvg-id="4" tvg-name="4" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/Future.png",Future TV LEB (4)
 http://streaming.i-sat.tv:8081/live/ftu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="5" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/NBN.png",NBN LEB (5)
@@ -29,7 +29,7 @@ https://secure-streams.akamaized.net/rt-arab/index2500.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="10" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/SkyNews.png",Sky News AR (10)
 http://streaming.i-sat.tv:8081/live/skynews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-name="11" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/AlHadath.png",Al Hadath AR (11)
+#EXTINF:-1 tvg-id="11" tvg-name="11" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/Al Hadath.png",Al Hadath AR (11)
 http://streaming.i-sat.tv:8081/live/alhadath/playlist.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-name="12" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/2M.png",2M AR (12)
@@ -65,68 +65,68 @@ http://streaming.i-sat.tv:8081/live/osm/playlist.m3u8
 #EXTINF:-1 tvg-id="22" tvg-name="22" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/OSNCinema.png",OSN Cinema AR (22)
 http://streaming.i-sat.tv:8081/live/oci/playlist.m3u8
 
-#EXTINF:-1 tvg-id="23" tvg-name="23" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/ZeeAflam.png",Zee Aflam AR (23)
-http://streaming.i-sat.tv:8081/live/zeeaflam/playlist.m3u8
-
-#EXTINF:-1 tvg-id="24" tvg-name="24" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/ZeeAlwan.png",Zee Alwan AR (24)
-http://streaming.i-sat.tv:8081/live/zeealwan/playlist.m3u8
-
-#EXTINF:-1 tvg-id="25" tvg-name="25" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/CBC.png",CBC AR (25)
-http://streaming.i-sat.tv:1935/live/cbcone/playlist.m3u8
-
-#EXTINF:-1 tvg-id="26" tvg-name="26" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/CBCDrama.png",CBC Drama AR (26)
-http://streaming.i-sat.tv:1935/live/cbc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="27" tvg-name="27" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/CBCSofra.png",CBC Sofra AR (27)
-http://streaming.i-sat.tv:1935/live/csofra/playlist.m3u8
-
-#EXTINF:-1 tvg-id="28" tvg-name="28" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/DMC.png",DMC AR (28)
-http://streaming.i-sat.tv:1935/live/dmc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="29" tvg-name="29" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/DMCDrama.png",DMC Drama AR (29)
-http://streaming.i-sat.tv:8081/live/dmcdrama/playlist.m3u8
-
-#EXTINF:-1 tvg-id="30" tvg-name="30" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/SyriaDrama.png",Syria Drama AR (30)
-http://streaming.i-sat.tv:1935/live/syriadrama/playlist.m3u8
-
-#EXTINF:-1 tvg-id="31" tvg-name="31" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/LBC.png",LBC LEB (31)
-http://streaming.i-sat.tv:8081/live/lbc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="32" tvg-name="32" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/ARTAflam1.png",ART Aflam 1 AR (32)
-http://streaming.i-sat.tv:8081/live/art1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="33" tvg-name="33" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/ARTAflam2.png",ART Aflam 2 AR (33)
-http://streaming.i-sat.tv:8081/live/art2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="34" tvg-name="34" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RotanaClassic.png",Rotana Classic AR (34)
-http://streaming.i-sat.tv:1935/live/rtca/playlist.m3u8
-
-#EXTINF:-1 tvg-id="35" tvg-name="35" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RotanaAflam.png",Rotana Aflam AR (35)
-http://streaming.i-sat.tv:8081/live/rotanaaflam/playlist.m3u8
-
-#EXTINF:-1 tvg-id="36" tvg-name="36" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RotanaDrama.png",Rotana Drama AR (36)
-http://streaming.i-sat.tv:1935/live/rotanamasr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="37" tvg-name="37" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RotanaCinema.png",Rotana Cinema AR (37)
-http://streaming.i-sat.tv:1935/live/mrtc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="38" tvg-name="38" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RotanaKhalijiya.png",Rotana Khalijiya AR (38)
-http://streaming.i-sat.tv:8081/live/rotanakhalejeh/playlist.m3u8
-
-#EXTINF:-1 tvg-id="39" tvg-name="39" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RotanaClip.png",Rotana Clip AR (39)
-http://streaming.i-sat.tv:1935/live/rtcp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="40" tvg-name="40" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RotanaMusic.png",Rotana Music AR (40)
-http://streaming.i-sat.tv:8081/live/rotanamusic/playlist.m3u8
-
-#EXTINF:-1 tvg-id="41" tvg-name="41" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/MBC1HD.png",MBC 1 HD AR (41)
+#EXTINF:-1 tvg-id="23" tvg-name="23" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/MBC1HD.png",MBC 1 HD AR (23)
 http://5.196.90.62:8080/MBC1_HD/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="42" tvg-name="42" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/MBC2HD.png",MBC 2 HD AR (42)
+#EXTINF:-1 tvg-id="24" tvg-name="24" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/MBC2HD.png",MBC 2 HD AR (24)
 http://5.196.90.62:8080/MBC2_HD/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="44" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/MBC4HD.png",MBC 4 HD AR (44)
+#EXTINF:-1 tvg-id="25" tvg-name="25" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/MBC4HD.png",MBC 4 HD AR (25)
 http://5.196.90.62:8080/MBC4_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="26" tvg-name="26" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/ZeeAflam.png",Zee Aflam AR (26)
+http://streaming.i-sat.tv:8081/live/zeeaflam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-name="27" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/ZeeAlwan.png",Zee Alwan AR (27)
+http://streaming.i-sat.tv:8081/live/zeealwan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="28" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/CBC.png",CBC AR (28)
+http://streaming.i-sat.tv:1935/live/cbcone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="29" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/CBCDrama.png",CBC Drama AR (29)
+http://streaming.i-sat.tv:1935/live/cbc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-name="30" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/CBCSofra.png",CBC Sofra AR (30)
+http://streaming.i-sat.tv:1935/live/csofra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="31" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/DMC.png",DMC AR (31)
+http://streaming.i-sat.tv:1935/live/dmc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-name="32" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/DMCDrama.png",DMC Drama AR (32)
+http://streaming.i-sat.tv:8081/live/dmcdrama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="33" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/SyriaDrama.png",Syria Drama AR (33)
+http://streaming.i-sat.tv:1935/live/syriadrama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="34" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/LBC.png",LBC LEB (34)
+http://streaming.i-sat.tv:8081/live/lbc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-name="35" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/ARTAflam1.png",ART Aflam 1 (35)
+http://streaming.i-sat.tv:8081/live/art1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-name="36" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/ARTAflam2.png",ART Aflam 2 (36)
+http://streaming.i-sat.tv:8081/live/art2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="37" tvg-name="37" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RotanaClassic.png",Rotana Classic (37)
+http://streaming.i-sat.tv:1935/live/rtca/playlist.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="38" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RotanaAflam.png",Rotana Aflam (38)
+http://streaming.i-sat.tv:8081/live/rotanaaflam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-name="39" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RotanaDrama.png",Rotana Drama (39)
+http://streaming.i-sat.tv:1935/live/rotanamasr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-name="40" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RotanaCinema.png",Rotana Cinema (40)
+http://streaming.i-sat.tv:1935/live/mrtc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="41" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RotanaKhalijiya.png",Rotana Khalijiya (41)
+http://streaming.i-sat.tv:8081/live/rotanakhalejeh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-name="42" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RotanaClip.png",Rotana Clip (42)
+http://streaming.i-sat.tv:1935/live/rtcp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="43" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RotanaMusic.png",Rotana Music (43)
+http://streaming.i-sat.tv:8081/live/rotanamusic/playlist.m3u8
 
 
 
