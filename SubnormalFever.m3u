@@ -150,7 +150,7 @@ https://rdshdulive-lh.akamaihd.net/i/rdshdu1_1@110201/master.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="5" group-title="Canada" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/CBCMontreal.png",CBC Montreal CA (5)
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master4.m3u8
 
-#EXTINF:-1 tvg-id="6" tvg-name="6" group-title="Canada" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RDI.png",RDI CA (6)
+#EXTINF:-1 tvg-id="6" tvg-name="6" group-title="Canada" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/ICIRDI.png",ICIRDI CA (6)
 https://srclive-lh.akamaihd.net/i/canrdi_1@95877/master.m3u8
 
 
