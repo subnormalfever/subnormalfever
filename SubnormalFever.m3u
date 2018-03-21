@@ -169,5 +169,5 @@ http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="1" http-user-agent=vlc group-title="France" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/Mangas.png",Mangas FR (1)
+#EXTINF:-1 tvg-id="1" tvg-name="1" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246" group-title="France" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/Mangas.png",Mangas FR (1)
 http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/playlist.m3u8
