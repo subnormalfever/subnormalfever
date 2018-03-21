@@ -165,3 +165,9 @@ https://live2.userapi.com/637609/live/_UwNzFpFekY/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="3" group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/TVDiario.png",TV Diario BR (3)
 http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="1" group-title="France" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/Mangas.png",Mangas FR (1)
+http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/playlist.m3u8
