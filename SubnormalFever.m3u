@@ -174,3 +174,6 @@ http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="2" group-title="France" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/BeINSports1HD.png",BeIN Sports 1 HD FR (2)
 http://bie302-ott.cdn.bouygtel.fr/kyabyzvi5aaaaaaaaanuvscaaaaaaaaaaaacdziisjqctcri/0000383/04.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="3" group-title="France" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/BeINSports2HD.png",BeIN Sports 2 HD FR (3)
+http://bie102-ott.cdn.bouygtel.fr/kyabyzvi5aaaaaaaaku0mgaaaaaaaaaaaaakd2qgsjret0qg/0004439/04.m3u8
