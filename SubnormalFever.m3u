@@ -177,3 +177,6 @@ http://bie302-ott.cdn.bouygtel.fr/kyabyzvi5aaaaaaaaanuvscaaaaaaaaaaaacdziisjqctc
 
 #EXTINF:-1 tvg-id="3" tvg-name="3" group-title="France" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/BeINSports2HD.png",BeIN Sports 2 HD FR (3)
 http://bie102-ott.cdn.bouygtel.fr/kyabyzvi5aaaaaaaaku0mgaaaaaaaaaaaaakd2qgsjret0qg/0004439/04.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="4" group-title="France" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/BeINSports3HD.png",BeIN Sports 3 HD FR (4)
+http://cro502-ott.cdn.bouygtel.fr/kyabytni5qaaaaaaamojdwcaaaaaaaaaaaakdczgsrrsd1yi/0003018/04.m3u8
