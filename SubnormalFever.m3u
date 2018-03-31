@@ -24,7 +24,7 @@ http://lmd.cdn.octivid.com/lmd/smil:switch.smil/playlist.m3u8
 http://streaming.i-sat.tv:8081/live/tnv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="9" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/Aljazeera.png",Aljazeera AR (9)
-http://streaming.i-sat.tv:8081/live/aljazeera/playlist.m3u8
+http://streaming.i-sat.tv:1935/live/aljazeera/playlist.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-name="10" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RT.png",RT AR (10)
 https://secure-streams.akamaized.net/rt-arab/index2500.m3u8
