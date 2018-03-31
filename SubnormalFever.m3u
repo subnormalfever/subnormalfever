@@ -83,7 +83,7 @@ http://streaming.i-sat.tv:8081/live/zeeaflam/playlist.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="28" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/ZeeAlwan.png",Zee Alwan AR (28)
 http://streaming.i-sat.tv:8081/live/zeealwan/playlist.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-name="29" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/CBC.png",CBC AR (29)
+#EXTINF:-1 tvg-id="29" tvg-name="29" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/CBC.png",CBC AR (DEAD)
 http://streaming.i-sat.tv:1935/live/cbcone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="30" tvg-name="30" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/CBCDrama.png",CBC Drama AR (30)
