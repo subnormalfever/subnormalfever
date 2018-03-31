@@ -44,7 +44,7 @@ https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="15" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/Spacetoon.png",Spacetoon AR (15)
 http://streaming.i-sat.tv:8081/live/spacetoon/playlist.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-name="16" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/NationalGeographicAbuDhabi.png",National Geographic Abu Dhabi AR (16)
+#EXTINF:-1 tvg-id="16" tvg-name="16" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/NationalGeographicAbuDhabi.png",Nat Geo Abu Dhabi AR (16)
 http://streaming.i-sat.tv:1935/live/Nat/playlist.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-name="17" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/AljazeeraDocumentary.png",Aljazeera Documentary AR (17)
