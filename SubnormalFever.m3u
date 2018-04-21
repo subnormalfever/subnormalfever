@@ -3,7 +3,7 @@
 http://streaming.i-sat.tv:8081/live/mtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="2" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/LDC.PNG",LDC LEB (2)
-http://streaming.i-sat.tv:1935/live/ldc/playlist.m3u8
+http://streaming.i-sat.tv:8081/live/ldc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="3" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/OTV.PNG",OTV LEB (3)
 http://streaming.i-sat.tv:1935/live/vto/playlist.m3u8
@@ -24,13 +24,13 @@ http://lmd.cdn.octivid.com/lmd/smil:switch.smil/playlist.m3u8
 http://streaming.i-sat.tv:8081/live/tnv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="9" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/Aljazeera.png",Aljazeera AR (9)
-http://streaming.i-sat.tv:1935/live/aljazeera/playlist.m3u8
+http://streaming.i-sat.tv:8081/live/aljazeera/playlist.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-name="10" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/RT.png",RT AR (10)
 https://secure-streams.akamaized.net/rt-arab/index2500.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-name="11" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/SkyNews.png",Sky News AR (11)
-http://streaming.i-sat.tv:1935/live/skynews/playlist.m3u8
+http://streaming.i-sat.tv:8081/live/skynews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-name="12" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/AlHadath.png",Al Hadath AR (12)
 https://live.alhadath.net/hadath/myStream/chunklist.m3u8?hds
