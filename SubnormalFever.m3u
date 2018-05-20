@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="1" tvg-name="1" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/MTV.png",MTV LEB (1)
 http://streaming.i-sat.tv:8081/live/mtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="1" tvg-name="1" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/MTV.png",MTV LEB BACKUP (1)
+http://185.27.116.54:8081/live/mtv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="2" tvg-name="2" group-title="Arabic" tvg-logo="https://raw.githubusercontent.com/subnormalfever/Logos/master/LDC.PNG",LDC LEB (2)
 http://streaming.i-sat.tv:8081/live/ldc/playlist.m3u8
 
